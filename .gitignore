@@ -1,2 +1,5 @@
 class Fire{
+public static void Main(String ars[]){
+System.out.print("Hello Java")
+}
 }
